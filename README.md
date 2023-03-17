@@ -30,3 +30,5 @@ Our task will be to build a model that forecasts weekly sales for each store usi
 
 
 The metric for success in this task will be `Meam Absolute Error`
+
+**Contest solution via Kaggle (https://www.kaggle.com/competitions/sales-preiction-pl)**
