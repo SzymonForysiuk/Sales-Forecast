@@ -1,9 +1,10 @@
-### Sales Forecast
+## Sales Forecast
 
 #### Predicting weekly sales one year ahead
 Our task will be to build a model that forecasts weekly sales for each store using historical data. 
 
 
+**Data are three csv files: Sales, Features, Store**
 
 **Sales** - Historical sales data.
 - `store` - store number (store contains one or more branches).
